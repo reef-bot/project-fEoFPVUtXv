@@ -1,0 +1,14 @@
+{
+	"moderation_rules": {
+		"automatic_filtering": true,
+		"kick_command_enabled": true,
+		"ban_command_enabled": true,
+		"warn_command_enabled": true,
+		"mute_command_enabled": true,
+		"custom_settings": {
+			"profanity_threshold": 0.8,
+			"ban_threshold": 3,
+			"mute_duration": 600
+		}
+	}
+}
